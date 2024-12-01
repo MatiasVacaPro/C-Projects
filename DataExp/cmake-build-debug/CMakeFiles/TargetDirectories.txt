@@ -1,0 +1,3 @@
+/Users/nicolevaca/CLionProjects/DataExp/cmake-build-debug/CMakeFiles/DataExp.dir
+/Users/nicolevaca/CLionProjects/DataExp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nicolevaca/CLionProjects/DataExp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
